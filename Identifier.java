@@ -14,9 +14,10 @@
              1.不能以数字开头
              2.不能和Java的关键字重名
              3.严格区分大小写
+
  */
 public class Identifier {
-    public static void main(String[] args) {
+    public static void main(String[] args) {瞎搞报错了吧
         //定义变量，记录张三的年龄
         int zhangSanAge = 23;
         System.out.println(zhangSanAge);
